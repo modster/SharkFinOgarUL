@@ -1,0 +1,15 @@
+[
+{
+  "name": "imgexample",
+  "type": "image",
+  "data": "http://www.reactionface.info/sites/default/files/images/1287666826226.png",
+  "duration": 5
+},
+{
+  "name": "textexample",
+  "type": "text",
+  "data": "Subscribe To My Youtube!",
+  "link": "https://www.youtube.com/channel/UCcwiPvFJT-4xeNvK_5UdjHw",
+  "duration": 6
+}
+]
